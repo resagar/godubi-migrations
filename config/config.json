@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "laravel",
+    "password": "HHzYpyVkN1Daemfw43!",
+    "database": "godubi",
+    "host": "64.227.14.85",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "laravel",
+    "password": "HHzYpyVkN1Daemfw43!",
+    "database": "godubi",
+    "host": "64.227.14.85",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "laravel",
+    "password": "HHzYpyVkN1Daemfw43!",
+    "database": "godubi",
+    "host": "64.227.14.85",
+    "dialect": "mysql"
+  }
+}
